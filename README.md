@@ -1,5 +1,6 @@
 
 <img width="6600" height="1650" alt="ayansujon" src="https://github.com/user-attachments/assets/3d1d77df-c425-4670-b2ef-832280a23ef1" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayansujon&label=Profile%20views&color=0e75b6&style=flat" alt="ayansujon" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Ayan Sujon</h1>
@@ -35,7 +36,6 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayansujon&label=Profile%20views&color=0e75b6&style=flat" alt="ayansujon" /> </p>
 
 - 🔭 I’m currently working on [EcoTrack](https://github.com/AyanSujon/ecotrack-client-side.git)
 
