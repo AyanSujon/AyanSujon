@@ -5,9 +5,7 @@
 
 
 <h1 align="center">
-  <span>Hi 👋, I'm Ayan Sujon</span>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Front-End+Developer;MERN+Stack+Developer&center=true&size=30&width=500&duration=3000&color=40F8FF" style="vertical-align: middle;">
+  <span>Hi 👋, I'm Ayan Sujon</span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Front-End+Developer;MERN+Stack+Developer&center=true&size=30&width=500&duration=3000&color=40F8FF" style="vertical-align: middle;">
   </a>
 </h1>
 
