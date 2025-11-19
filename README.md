@@ -29,7 +29,7 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 - 🧠 Learning more about **business strategy** to understand client needs and build smarter solutions  
 - 💻 Diving deeper into **modern technology** to stay updated and future-ready  
 - ⚛️ Polishing reusable **React components** — powered by coffee, curiosity, and clean tech  
-
+- ⚡ Fun fact **I enjoy fixing bugs almost as much as breaking them accidentally.**
 
 ---
 
@@ -72,7 +72,7 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 <a href="https://dribbble.com/ayansujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ayansujon" height="30" width="40" /></a>
 <a href="https://www.behance.net/ayansujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayansujon" height="30" width="40" /></a>
 <a href="https://medium.com/ayansujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ayansujon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ayan-sujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayan-sujon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ayan-sujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayan-sujon" height="30" width="40" /></a>
 </p>
 
   ---
@@ -89,7 +89,7 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 
 - 📄 Know about my experiences [https://www.ayansujon.com/about/](https://www.ayansujon.com/about/)
 
-- ⚡ Fun fact **I enjoy fixing bugs almost as much as breaking them accidentally.**
+
 
 
 
