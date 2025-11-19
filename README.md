@@ -3,7 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayansujon&label=Profile%20views&color=0e75b6&style=flat" alt="ayansujon" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Ayan Sujon</h1>
+<h1 align="center">Hi 👋, I'm Ayan Sujon</h1> 
+
 
 
 ## 🚀 Overview  
@@ -35,21 +36,6 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 
 
 
-
-
-- 🔭 I’m currently working on [EcoTrack](https://github.com/AyanSujon/ecotrack-client-side.git)
-
-- 🌱 I’m currently learning **Node.js,Mongodb, Express js**
-
-- 👯 I’m looking to collaborate on [GameHub](https://github.com/AyanSujon/assignment-b12a09.git)
-
-- 🤝 I’m looking for help with [HERO.IO](https://github.com/AyanSujon/assignment-B12A08.git)
-
-- 👨‍💻 All of my projects are available at [https://www.ayansujon.com/](https://www.ayansujon.com/)
-
-- 📝 I regularly write articles on [https://www.ayansujon.com/blog/](https://www.ayansujon.com/blog/)
-
-- 💬 Ask me about **Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ideas into clean, impactful, and user-friendly web experiences. I’m passionate about crafting modern UIs with React, optimizing performance, and writing reusable, maintainable code that actually makes a difference.**
 
 - 📫 How to reach me **ayansujon.contact@gmail.com**
 
