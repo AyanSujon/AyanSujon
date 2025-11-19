@@ -3,21 +3,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayansujon&label=Profile%20views&color=0e75b6&style=flat" alt="ayansujon" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Ayan Sujon</h1>
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Front-End+Developer;MERN+Stack+Developer&center=true&size=30&width=500&duration=3000&color=40F8FF" style="vertical-align: middle;">
-  </a>
-</h1>
-
-
-
-
 ## 🚀 Overview  
 Turning ideas into **impactful, high-performance web experiences**.  
 I design and build **modern, responsive, and optimized interfaces** using clean, reusable code — helping businesses **grow, stand out, and future-proof** their digital presence.
 
 **Imagine. Create Impact. Win the Future.**  
 Let’s build something powerful, error-free, and ready for tomorrow.
+
+---
+<h1 align="center">Hi 👋, I'm Ayan Sujon</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Front-End+Developer;MERN+Stack+Developer&center=true&size=30&width=500&duration=3000&color=40F8FF" style="vertical-align: middle;">
+  </a>
+</h1>
+
 
 ---
 
@@ -27,7 +26,7 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 ---
 
 
-### 🔥 Current Activities
+## 🔥 Current Activities
 
 - 🚀 Exploring **Next.js** to build fast, scalable, and SEO-friendly web applications  
 - 🗣️ Practicing **English speaking** to improve communication and client interaction  
@@ -37,7 +36,7 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 - ⚡ Fun fact **I enjoy fixing bugs almost as much as breaking them accidentally.**
 
 ---
-<h3>The technologies that power my development</h3>
+## The technologies that power my development: 
 
 | **Skills Overview**        | **Technologies**                                                                                                                                                                                                                          |
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -64,7 +63,7 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 ---
 
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://twitter.com/yourayansujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourayansujon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayansujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayansujon" height="30" width="40" /></a>
