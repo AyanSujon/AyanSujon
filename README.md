@@ -4,10 +4,7 @@
 
 
 
-<h1 align="center"> Hi 👋, I'm Ayan Sujon
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Front-End+Developer;MERN+Stack+Developer&center=true&size=30&width=500&duration=3000&color=40F8FF">
-  </a>
+<h1 align="center"> Hi 👋, I'm Ayan Sujon <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Front-End+Developer;MERN+Stack+Developer&center=true&size=30&width=500&duration=3000&color=40F8FF"></a>
 </h1>
 
 
