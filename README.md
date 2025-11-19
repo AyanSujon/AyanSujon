@@ -1,10 +1,9 @@
 
 <img width="6600" height="1650" alt="ayansujon" src="https://github.com/user-attachments/assets/3d1d77df-c425-4670-b2ef-832280a23ef1" />
 
+
 <h1 align="center">Hi 👋, I'm Ayan Sujon</h1>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayansujon" alt="ayansujon" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayansujon&label=Profile%20views&color=0e75b6&style=flat" alt="ayansujon" /> </p>
 
 - 🔭 I’m currently working on [EcoTrack](https://github.com/AyanSujon/ecotrack-client-side.git)
 
@@ -47,13 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayansujon&show_icons=true&locale=en" alt="ayansujon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayansujon&" alt="ayansujon" /></p>
-
-
-
-
-
-
-
 
 
 
