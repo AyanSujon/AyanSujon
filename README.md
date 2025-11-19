@@ -54,19 +54,6 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 ---
 
 
-  ---
-
-
-
-
-
-
-
-
-
-
-  
-  ---
 
 ## 📊 GitHub Stats
 
@@ -76,7 +63,7 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 
 
 
-  
+---
 
 
 <h3 align="left">Connect with me:</h3>
@@ -98,17 +85,11 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 
 
 
-
-
-
-
 - 📫 How to reach me **ayansujon.contact@gmail.com**
 
 - 📄 Know about my experiences [https://www.ayansujon.com/about/](https://www.ayansujon.com/about/)
 
-
-
-
+---
 
 
 
