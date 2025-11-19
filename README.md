@@ -1,4 +1,6 @@
-https://github.com/AyanSujon/AyanSujon/blob/main/ayansujon.png
+https://github.com/AyanSujon/AyanSujon/blob/main/ayansujon.png?raw=true
+
+
 <h1 align="center">Hi 👋, I'm Ayan Sujon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayansujon&label=Profile%20views&color=0e75b6&style=flat" alt="ayansujon" /> </p>
 
