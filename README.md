@@ -81,14 +81,16 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 
   ---
 
-### Active Contact Channels:
-https://www.ayansujon.com/contact/
-https://www.linkedin.com/in/ayansujon/ (recommended)
-Email: ayansujon.contact@gmail.com
-https://wa.me/+8801684770240 (WhatsApp)
+## 📬 Active Contact Channels
 
-Thank you for reaching out!
-— Ayan Sujon
+- 🌐 Website: [https://www.ayansujon.com/contact/](https://www.ayansujon.com/contact/)  
+- 🔗 LinkedIn (recommended): [https://www.linkedin.com/in/ayansujon/](https://www.linkedin.com/in/ayansujon/)  
+- 📧 Email: ayansujon.contact@gmail.com  
+- 📱 WhatsApp: [https://wa.me/+8801684770240](https://wa.me/+8801684770240)  
+
+Thank you for reaching out!  
+— **Ayan Sujon**
+
 
 ---
 
