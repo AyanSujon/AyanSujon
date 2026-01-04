@@ -10,7 +10,7 @@ I design and build **modern, responsive, and optimized interfaces** using clean,
 **Imagine. Create Impact. Win the Future.**  
 Let’s build something powerful, error-free, and ready for tomorrow.
 
-<a href="https://ayansujon.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://ayansujon.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=appveyor" alt="Portfolio" />
 </a>
 
