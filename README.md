@@ -14,8 +14,6 @@ Let’s build something powerful, error-free, and ready for tomorrow.
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=appveyor" alt="Portfolio" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge)](https://ayansujon.netlify.app/)
-
 
 ---
 <h1 align="center">Hi 👋, I'm Ayan Sujon</h1>
