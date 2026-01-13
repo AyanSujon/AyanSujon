@@ -65,6 +65,40 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 
 
 
+
+
+
+
+## 📊 GitHub Stats
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ayansujon&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ayansujon&theme=transparent&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=ayansujon&theme=transparent&hide_border=true) |
+
+
+
+
+
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://stats-dozen.vercel.app/api/top-langs/?username=ayansujon&theme=light&layout=compact) | ![GitHub Stats](https://stats-dozen.vercel.app/api?username=ayansujon&theme=light) | ![GitHub Streak](https://streak-stats.demolab.com/?user=ayansujon&theme=light) |
+
+
+
+
+
+
+
+
+
 ---
 
 
