@@ -65,9 +65,9 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 
 
 
+---
 
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AyanSujon)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
