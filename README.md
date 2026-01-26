@@ -72,6 +72,11 @@ Hi, I’m Ayan — a Frontend Focused MERN Stack Developer who loves turning ide
 ---
 
 
+---
+
+
+
+----
 ## Join me on:
 <p align="left">
 <a href="https://twitter.com/yourayansujon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourayansujon" height="30" width="40" /></a>
