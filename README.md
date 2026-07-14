@@ -37,7 +37,7 @@ Let’s build something powerful, error-free, and ready for tomorrow.
 * 💡 Sharpening my **problem-solving and logical thinking** to build clean, efficient, and maintainable solutions
 * 🗣️ Improving my **English communication skills** to collaborate effectively with global clients and teams
 * 📈 Learning more about **SaaS products and business strategy** to better understand client needs and deliver greater business value
-* ⚡ Fun fact: **I enjoy fixing bugs almost as much as breaking them accidentally.**
+* ⚡ Fun fact: **I enjoy fixing bugs almost as much as breaking them accidentally**—powered by coffee and curiosity.
 
 
 
