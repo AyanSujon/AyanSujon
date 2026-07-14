@@ -26,19 +26,21 @@ Let’s build something powerful, error-free, and ready for tomorrow.
 ---
 
 ## 👨‍💻 About Me  
-I'm an AI-Powered Full-Stack Developer focused on solving real business challenges through modern web applications. I help businesses streamline workflows, build scalable systems, improve application performance, automate repetitive processes, and integrate AI-powered capabilities that enhance productivity and user experience.
+I'm an **AI-Powered Full-Stack Developer** focused on solving real business challenges through modern web applications. I help businesses streamline workflows, build scalable systems, improve application performance, automate repetitive processes, and integrate AI-powered capabilities that enhance productivity and user experience.
 
-I primarily work with Agency Owners, SaaS Founders, Startup Founders, and growing businesses that need reliable, future-ready digital products. Whether it's launching a new platform, building an MVP, or scaling an existing application, I enjoy turning complex ideas into practical solutions.
+I primarily work with **Agency Owners, SaaS Founders, Startup Founders, and growing businesses** that need reliable, future-ready digital products. Whether it's launching an MVP, building a new platform, or scaling an existing application, I enjoy turning complex ideas into practical solutions.
 
-I completed a 4-month remote Full-Stack Developer Internship at Global Dream Connect, an international mentorship platform connecting students with experienced mentors. During my internship, I contributed to building the mentor platform and mentor onboarding system using Next.js, React, TypeScript, Node.js, Express.js, Supabase, and PostgreSQL. After successfully completing the internship, I was promoted to Tech Lead in recognition of my technical contributions, ownership, and consistent delivery.
+I completed a **4-month remote Full-Stack Developer Internship** at **Global Dream Connect**, an international mentorship platform connecting students with experienced mentors. I contributed to building the mentor platform and onboarding system using **Next.js, React, TypeScript, Node.js, Express.js, and supabase, postgraSQL**. After my internship, I was **promoted to Tech Lead** in recognition of my technical contributions, ownership, and consistent delivery.
 
 My goal is to deliver more than just functional software. I build applications with scalability, maintainability, security, and long-term growth in mind. By combining clean architecture with a business-focused approach, I help teams move faster, reduce technical debt, and create products that are easier to evolve over time.
 
-My core technology stack includes TypeScript, Next.js, React, Node.js, Express.js, Prisma, PostgreSQL, and MongoDB. I also specialize in AI integration, helping businesses add intelligent features and automation to their applications. Together, these technologies allow me to build high-performance, scalable full-stack applications from concept to deployment.
+My core technology stack includes **TypeScript, Next.js, React, Node.js, Express.js, Prisma, PostgreSQL, and MongoDB**. I also specialize in **AI integration**, helping businesses add intelligent features and automation to their applications. Together, these technologies allow me to build high-performance, scalable full-stack applications from concept to deployment.
 
-Recently, I've built projects such as FixItNow, a home service platform with booking and payment workflows; DevPulse, a scalable backend platform; and full-stack applications including ClubSphere, EcoTrack, Footwear Zone, and True Care. These projects have strengthened my expertise in building REST APIs, authentication systems, database-driven applications, AI-powered features, and complete end-to-end web solutions.
+My recent projects include **FixItNow**, a home service platform with booking and payment workflows; **DevPulse**, a scalable backend platform; and full-stack applications including **ClubSphere**, **EcoTrack**, **Footwear Zone**, and **True Care**. These projects have strengthened my expertise in building REST APIs, authentication systems, database-driven applications, AI-powered features, and complete end-to-end web solutions.
 
-What sets me apart is my ability to combine modern full-stack development with AI integration while keeping business goals at the center of every decision. If you're looking for someone who can build scalable, maintainable, and future-ready web applications that create real value, I'd be happy to connect.
+What sets me apart is my ability to combine modern full-stack development with AI integration while keeping business goals at the center of every decision. I'm passionate about building software that is not only technically strong but also delivers measurable business value.
+
+If you're looking for a developer who can build scalable, maintainable, and future-ready web applications, I'd love to connect.
 
 
 ---
