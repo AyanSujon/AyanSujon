@@ -29,14 +29,17 @@ Let’s build something powerful, error-free, and ready for tomorrow.
 </h3>
 
 ---
+
 ## 🔥 Current Activities
 
-- 🚀 Exploring **Next.js** to build fast, scalable, and SEO-friendly web applications  
-- 🗣️ Practicing **English speaking** to improve communication and client interaction  
-- 🧠 Learning more about **business strategy** to understand client needs and build smarter solutions  
-- 💻 Diving deeper into **modern technology** to stay updated and future-ready  
-- ⚛️ Polishing reusable **React components** — powered by coffee, curiosity, and clean tech  
-- ⚡ Fun fact **I enjoy fixing bugs almost as much as breaking them accidentally.**
+* 🤖 Exploring **AI integration and automation** to build smarter, more efficient web applications
+* 🚀 Learning **DevOps** and **System Design** to create scalable, secure, and production-ready applications
+* 🧠 Strengthening my understanding of **Object-Oriented Programming (OOP)** and software architecture
+* 💡 Sharpening my **problem-solving and logical thinking** to build clean, efficient, and maintainable solutions
+* 🗣️ Practicing **English communication** to collaborate effectively with global clients and teams
+* 📈 Learning more about **business strategy and SaaS** to better understand client needs and deliver impactful solutions
+* ⚡ Fun fact: **I enjoy fixing bugs almost as much as breaking them accidentally.**
+
 
 
 
