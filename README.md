@@ -4,13 +4,14 @@
 ------------
 
 ## 🚀 Overview  
-Turning ideas into **impactful, high-performance web experiences**.  
-I design and build **modern, responsive, and optimized interfaces** using clean, reusable code — helping businesses **grow, stand out, and future-proof** their digital presence.
+Turning ideas into **impactful, high-performance web experiences**.
+
+I build scalable, AI-powered full-stack applications with clean architecture, secure backend systems, and modern user experiences — helping **businesses grow, automate workflows, and future-proof** their digital products.
 
 **Imagine. Create Impact. Win the Future.**  
 Let’s build something powerful, error-free, and ready for tomorrow.
 
-<a href="https://ayansujon.netlify.app/" target="_blank">
+<a href="https://portfolio-ayansujon.onrender.com/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=appveyor" alt="Portfolio" />
 </a>
 
