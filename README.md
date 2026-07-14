@@ -22,7 +22,7 @@ Let’s build something powerful, error-free, and ready for tomorrow.
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=008DB9center=true&vCenter=true&width=800&lines=AI-Powered+Full-Stack+Developer;AI+Automation+Specialist;SaaS+Application+Developer"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=008DB9&center=true&vCenter=true&width=800&lines=AI-Powered+Full-Stack+Developer;AI+Automation+Specialist;SaaS+Application+Developer"
       alt="Typing SVG"
     />
   </a>
