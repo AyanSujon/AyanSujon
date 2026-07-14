@@ -38,9 +38,7 @@ My core technology stack includes **TypeScript, Next.js, React, Node.js, Express
 
 My recent projects include **FixItNow**, a home service platform with booking and payment workflows; **DevPulse**, a scalable backend platform; and full-stack applications including **ClubSphere**, **EcoTrack**, **Footwear Zone**, and **True Care**. These projects have strengthened my expertise in building REST APIs, authentication systems, database-driven applications, AI-powered features, and complete end-to-end web solutions.
 
-What sets me apart is my ability to combine modern full-stack development with AI integration while keeping business goals at the center of every decision. I'm passionate about building software that is not only technically strong but also delivers measurable business value.
-
-If you're looking for a developer who can build scalable, maintainable, and future-ready web applications, I'd love to connect.
+What sets me apart is my ability to combine modern full-stack development with AI integration while keeping business goals at the center of every decision. I'm passionate about building software that is not only technically strong but also delivers measurable business value. If you're looking for a developer who can build scalable, maintainable, and future-ready web applications, I'd love to connect.
 
 
 ---
