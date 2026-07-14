@@ -28,6 +28,17 @@ Let’s build something powerful, error-free, and ready for tomorrow.
   </a>
 </h3>
 
+---
+## 🔥 Current Activities
+
+- 🚀 Exploring **Next.js** to build fast, scalable, and SEO-friendly web applications  
+- 🗣️ Practicing **English speaking** to improve communication and client interaction  
+- 🧠 Learning more about **business strategy** to understand client needs and build smarter solutions  
+- 💻 Diving deeper into **modern technology** to stay updated and future-ready  
+- ⚛️ Polishing reusable **React components** — powered by coffee, curiosity, and clean tech  
+- ⚡ Fun fact **I enjoy fixing bugs almost as much as breaking them accidentally.**
+
+
 
 ---
 
@@ -49,17 +60,6 @@ What sets me apart is my ability to combine modern full-stack development with A
 
 ---
 
-
-## 🔥 Current Activities
-
-- 🚀 Exploring **Next.js** to build fast, scalable, and SEO-friendly web applications  
-- 🗣️ Practicing **English speaking** to improve communication and client interaction  
-- 🧠 Learning more about **business strategy** to understand client needs and build smarter solutions  
-- 💻 Diving deeper into **modern technology** to stay updated and future-ready  
-- ⚛️ Polishing reusable **React components** — powered by coffee, curiosity, and clean tech  
-- ⚡ Fun fact **I enjoy fixing bugs almost as much as breaking them accidentally.**
-
----
 ## The technologies that power my development: 
 
 | **Skills Overview**        | **Technologies**                                                                                                                                                                                                                          |
