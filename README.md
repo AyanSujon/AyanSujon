@@ -1,5 +1,10 @@
 
-<img width="6600" height="1650" alt="ayansujon" src="https://github.com/user-attachments/assets/3d1d77df-c425-4670-b2ef-832280a23ef1" />
+<!-- <img width="6600" height="1650" alt="ayansujon" src="https://github.com/user-attachments/assets/3d1d77df-c425-4670-b2ef-832280a23ef1" />
+ -->
+ <img width="6600" height="1650" alt="AI-Powered Full-Stack Developer" src="https://github.com/user-attachments/assets/fe084bbc-ff88-4f18-a1af-fe9d270e074e" />
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayansujon&label=Profile%20views&color=0e75b6&style=flat" alt="ayansujon" /> </p>
 
 
