@@ -1,7 +1,7 @@
 
 <img width="6600" height="1650" alt="ayansujon" src="https://github.com/user-attachments/assets/3d1d77df-c425-4670-b2ef-832280a23ef1" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayansujon&label=Profile%20views&color=0e75b6&style=flat" alt="ayansujon" /> </p>
-------------
+
 
 ## 🚀 Overview  
 Turning ideas into **impactful, high-performance web experiences**.
@@ -128,8 +128,8 @@ What sets me apart is my ability to combine modern full-stack development with A
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
----
 
+---
 
 ## 📬 Active Contact Channels
 
